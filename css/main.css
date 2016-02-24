@@ -55,7 +55,7 @@ nav ul {
   border-radius: 5px;
  }
 h2 {
-  color: #cc1465;
+  color: #b20953;
   font-family: "Sigmar One";
   font-size: 1.875rem;
 }
@@ -69,6 +69,7 @@ footer {
 main {
   font-family: Georgia, serif;
   margin: 10px;
+  color: #2f2d13;
 }
 small {
   font-family: Georgia, serif;
@@ -86,7 +87,7 @@ a link {
 }
 
 img {
-  width:100% 
+  width:100%
 }
 
 
